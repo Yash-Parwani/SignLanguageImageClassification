@@ -1,0 +1,12 @@
+0 A
+1 am
+2 B
+3 C
+4 GoodBye
+5 hello
+6 I
+7 ILoveYou
+8 me
+9 no
+10 thankyou
+11 yes
